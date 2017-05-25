@@ -5,6 +5,6 @@ kamil131 - Kamil Szczepański - 228983
 PIOTTER96 - Piotr Klemczka - 229025
 Nevrim - Adrian Rutkowski - 229065
 Matornen - Michał Korycki - 229055
-konradinfa3 - Konrad Królikowski - 228993
+konradinfa3 - Konrad Królikowski - 228993  https://github.com/konradinfa3/projektW/blob/master/README.md
 damianinf3 - Damian Socha - 225304
 GeeKey283 - Grzegorz Kryszkiewicz - 228979
